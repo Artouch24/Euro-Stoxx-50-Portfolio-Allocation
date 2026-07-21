@@ -1,0 +1,1 @@
+# Euro-Stoxx-50-Portfolio-Allocation
